@@ -1,0 +1,133 @@
+[     {   "id":"0",   
+           "s":"Aşağıdakilerden hangisi bir böcek türü değildir",
+           "a":"Aslan",
+           "b":"Sinek",
+           "c":"Akrep",
+           "d":"Arı",
+           "true":"Aslan"
+
+},
+    
+    
+    {   "id":"1",   
+        "s":"Fatih Sultan Mehmet’in babası kimdir?",
+        "a":"II. Murat",
+        "b":"I. Mehmet",
+        "c":"Yıldırım Beyazıt",
+        "d":"Kanuni Sultan Süleyman",
+        "true":"II. Murat"
+    
+    },
+    {
+        "id":"2",
+        "s":"Magna Carta hangi ülkenin kralıyla yapılmış bir sözleşmedir?",
+        "a":"İspanya",
+        "b":"Fransa",
+        "c":"Şanlıurfa",
+        "d":"İngiltere",
+        "true":"İngiltere"
+    
+    },
+    {
+        "id":"3",   
+        "s":"Hangisi periyodik tabloda bulunan bir element değildir?",
+        "a":"Azot",
+        "b":"Oksijen",
+        "c":"Fosfor",
+        "d":"Çiğköfte",
+        "true":"Çiğköfte"
+    
+    },
+    {
+        "id":"4",
+        "s":"Hangisi bir doğal sayıdır?",
+        "a":"1.4",
+        "b":"13",
+        "c":"-1",
+        "d":"-5",
+        "true":"13"
+    
+    },
+    {
+        "id":"5",
+        "s":"Hangisi tarihteki Türk devletlerinden biri değildir?",
+        "a":"Avar kağanlığı",
+        "b":"Emevi Devleti",
+        "c":"Hun İmparatorluğu",
+        "d":"Türkiye",
+        "true":"Emevi Devleti"
+    
+    },
+    {
+        "id":"6",
+        "s":"Galatasaray hangi yıl UEFA kupasını almıştır?",
+        "a":"2000",
+        "b":"2001",
+        "c":"2002",
+        "d":"2010",
+        "true":"2000"
+    
+    },
+    {
+        "id":"7",
+        "s":" Kıbrıs Barış harekatı hangi tarihte gerçekleşmiştir?",
+        "a":"1970",
+        "b":"1972",
+        "c":"1974",
+        "d":"2015",
+        "true":"1974"
+    
+    },
+    {
+        "id":"8",
+        "s":"Hangi ülke Asya kıtasındadır?",
+        "a":"Singapur",
+        "b":"Peru",
+        "c":"Madagaskar",
+        "d":"Adıyaman",
+        "true":"Singapur"
+    
+    },
+    {
+        "id":"9",
+        "s":"ABD başkanlarından Kennedy’e suikast düzenleyerek öldüren kimdir?",
+        "a":"Jack Ruby",
+        "b":"Lee Harvey Oswald",
+        "c":"Efe Alperen Özgül",
+        "d":"Clay Shaw",
+        "true":"Lee Harvey Oswald"
+    
+    },
+    {
+        "id":"10",
+        "s":"Aşağıdaki hangi Anadolu takımı Türkiye Süper Liginde şampiyon olmuştur?",
+        "a":"Adıyamanspor",
+        "b":"Bursaspor",
+        "c":"Kocaelispor",
+        "d":"Eskişehirspor",
+        "true":"Bursaspor"
+    
+    },
+    {
+        "id":"11",
+        "s":"Hangisi Kanuni Sultan Süleyman’ın eşidir?",
+        "a":"Hürrem Sultan",
+        "b":"Kösem Sultan",
+        "c":"Safiye Sultan",
+        "d":"Malhun Hatun",
+        "true":"Hürrem Sultan"
+    
+    },
+    {
+        "id":"12",
+        "s":"3+2*4 işlemi hangisine eşittir?",
+        "a":"11",
+        "b":"2",
+        "c":"7",
+        "d":"6",
+        "true":"11"
+    
+    }
+    
+   
+]
